@@ -77,6 +77,16 @@ values[chosen_index], values[chosen_index_left] = \
 
 By repeating this process many times, the list gradually becomes sorted.
 
+## Examples
+<img width="996" height="259" alt="Screenshot 2026-09-22 164650" src="https://github.com/user-attachments/assets/03741e3d-6ea6-4720-8cf1-e677eff70ad8" />
+5000 bars being sorted
+
+<img width="1496" height="1370" alt="Screenshot 2026-09-22 164743" src="https://github.com/user-attachments/assets/afe0657a-7b38-4d0b-aa43-ad371e788016" />
+100 bars after being sorted
+
+
+
+
 
 ## License
 
