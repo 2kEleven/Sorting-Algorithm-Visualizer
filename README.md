@@ -44,7 +44,7 @@ same_number = False
 smart_mode = False
 super_smart_mode = True
 steps_per_frame = 50
-```
+
 max_value     Is the maximum value a bar can have.
 max_numbers     Is the amount of bars generated.
 same_number     Can be True or False. if True then the list is alowed to generate multiple bars with the same value.
@@ -52,6 +52,7 @@ smart_mode     If False then the program will randomly take a bar --> compares i
 smar_mode     If True then the program will run from the right to the left by comparing to it's neightbour and if nececary move to the left. This results in the program beings solver faster and always from left to right
 super_smart_mode     If True then the program will skip bars that are already sorted resulting in an even faster result
 steps_per_frame     The higher the number the more sorting steps it does before refreshing the screen, with lower values you want this low and with higher values you want this high, since vizualising the bar costs time
+```
 
 ## Sorting
 
