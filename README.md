@@ -1,4 +1,4 @@
-# Sorting Algorithm vizualizer
+# Sorting Algorithm viszualizer
 
 This project is a sorting algorithm visualizer made with Python and Pygame.
 
